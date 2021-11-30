@@ -1,4 +1,4 @@
-public class E2021A32 {
+public class I2021A32 {
 	private int a = 0;
 	private static int count = 0;
 	public int getA() { return a; }
