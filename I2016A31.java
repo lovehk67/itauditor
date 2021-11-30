@@ -12,7 +12,7 @@ class Temp {
 	}
 }
 
-public class E2016A31 {
+public class I2016A31 {
 	public static void main(String args[]) {
 		Temp obj1 = new Temp();
 		Temp obj2 = new Temp();
