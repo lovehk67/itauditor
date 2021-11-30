@@ -23,7 +23,7 @@ class SingletonExam {
 	}
 }
 
-public class E2020A36 {
+public class I2020A36 {
 	public static void main(String[] args) {
 		SingletonExam se = SingletonExam.getInstance(); // 2
 		se.increaseCounter(); // 3
