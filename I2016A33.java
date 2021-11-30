@@ -25,7 +25,7 @@ class Child extends Parent {
 	}
 }
 
-public class E2016A33 {
+public class I2016A33 {
 	public static void main(String args[]) {
 		Child c1 = new Child();
 		System.out.println("-----"); // 6
